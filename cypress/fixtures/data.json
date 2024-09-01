@@ -1,0 +1,21 @@
+{
+  "firstNameField": "Ebubechukwu",
+  "lastNameField": "Moghalu",
+  "addressField": "Ajah",
+  "cityField": " Lekki",
+  "stateField": "Lagos",
+  "zipCodeField": "105101",
+  "phoneNumberField": "07051990936",
+  "SSnField": "zzzf",
+  "userNameField": "Ebube24",
+  "passwordField": "Ebubechukwu1",
+  "confirmPasswordField": "Ebubechukwu1",
+  "accountType": "SAVINGS",
+  "transferAmountField": "10",
+  "fromAccount": "22890",
+  "toAccount": "22890",
+  "loanAmount": "200",
+  "downPayment": "5",
+  "invalidUserName": "chinedu",
+  "wrongPassword":"Rosemary1"
+}
